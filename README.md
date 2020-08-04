@@ -1,16 +1,14 @@
-### Hi there 👋
+## Sejam muito bem-vindos! 👋 
+<a href="https://imgur.com/E5lx2sH"><img src="https://i.imgur.com/E5lx2sH.jpg" title="source: imgur.com" /></a>
 
-<!--
-**RafaeltiMoreira/RafaeltiMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rafael Moreira
 
-Here are some ideas to get you started:
+Apaixonado por tecnologia.
+<br/>🎓Estudante de Gestão da Tecnologia da Informação na Universidade Católica de Brasília.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Atualmente estou trabalhando na **Secretaria de Estado de Segurança Pública do DF.**
+ <br/> 🚀 Buscando crescimento com cursos de Programação Orientada a Objetos, Lógica de Programação, Front-end e Back-end. 
+ <br/> 💻 Utilizando Java, Html, CSS, JavaScript, JQuery, React Native, React JS, Node JS, Ionic Developer, Dart, Flutter, Bootstrap, PHP, Ruby e Laravel.
+ <br/> 📧 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RafaelMoreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-moreira-ti/)](https://www.linkedin.com/in/rafael-moreira-ti/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-rafaeltimoreirass@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeltimoreirass@gmail.com)](mailto:rafaeltimoreirass@gmail.com)
