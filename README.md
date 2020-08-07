@@ -1,5 +1,5 @@
 ## Sejam muito bem-vindos! 👋 
-<a href="https://rocketseat.com.br/"><img src="https://i.imgur.com/qy5tWha.png" title="source: imgur.com" /></a>
+<a href="https://rocketseat.com.br/" target="_blank"><img src="https://i.imgur.com/qy5tWha.png" title="source: imgur.com" /></a>
 
 # Rafael Moreira
 
