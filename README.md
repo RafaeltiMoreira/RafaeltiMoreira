@@ -42,7 +42,7 @@
 
 <p>
 <img align="left" width="390em" src="https://github-readme-stats.vercel.app/api?username=RafaeltiMoreira&show_icons=true&theme=vision-friendly-dark" alt="RafaeltiMoreira's stats"/>
-<img align="right" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeltiMoreira&layout=compact&theme=vision-friendly-dark" alt="RafaeltiMoreira's most languages"/>
+<img align="right" width="329em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeltiMoreira&layout=compact&theme=vision-friendly-dark" alt="RafaeltiMoreira's most languages"/>
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
