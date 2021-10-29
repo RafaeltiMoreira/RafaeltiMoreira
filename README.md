@@ -1,12 +1,12 @@
 
-<h1 align="left">Sejam muito bem-vindos (as)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br> I'm Rafael Moreira</h1>
+<h1 align="center">Sejam muito bem-vindos (as)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br> I'm Rafael Moreira</h1>
 <a >
-    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="480" height="490em">
+    <img align="right" src="https://media4.giphy.com/media/gXbkrOe5fVoyYKjGCr/giphy.gif?cid=790b761156e4ec760ffc734e5ee48b099535594fc49ecfb5&rid=giphy.gif&ct=g" alt="Coder GIF" width="480" height="490em">
 </a>
 
-## 🎓 Information Technology Management Student
+## 🎓 Information Technology Management Student <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 
-## 🎓 Catholic University of Brasília - [UCB](https://www.linkedin.com/school/universidadecatolicadebrasilia/) | Last semester. 
+## 🎓 Catholic University of Brasília - [UCB](https://www.linkedin.com/school/universidadecatolicadebrasilia/) | Last semester
 
 ## 💻 Development Student Front-end and Back-end: 
 - Rocketseat 
@@ -16,7 +16,7 @@
 - +praTI 
 - CappacitaDev 
 - Ocean Samsung 
-- Dev. Superior.
+- Dev. Superior
 
 <br>
 
