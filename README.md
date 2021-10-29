@@ -36,16 +36,22 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 
-<br><br>
+<br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Stats
 
 <p>
-<img align="left" width="390em" src="https://github-readme-stats.vercel.app/api?username=RafaeltiMoreira&show_icons=true&theme=vision-friendly-dark" alt="RafaeltiMoreira's stats"/>
-<img align="right" width="329em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeltiMoreira&layout=compact&theme=vision-friendly-dark" alt="RafaeltiMoreira's most languages"/>
+<img align="left" width="490em" src="https://github-readme-stats.vercel.app/api?username=RafaeltiMoreira&show_icons=true&theme=vision-friendly-dark" alt="RafaeltiMoreira's stats"/>
+</p>  
+
+<br><br><br><br><br><br><br><br><br>
+
+## ⚙️ &nbsp;GitHub Languages
+<p>
+<img align="left" width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeltiMoreira&layout=compact&theme=vision-friendly-dark" alt="RafaeltiMoreira's most languages"/>
 </p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ## 💬 &nbsp;Social Links
 
