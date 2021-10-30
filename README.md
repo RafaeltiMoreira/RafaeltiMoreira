@@ -6,7 +6,7 @@
 
 ## 🎓 Information Technology Management Student <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 
-## 🎓 Catholic University of Brasília - [UCB](https://www.linkedin.com/school/universidadecatolicadebrasilia/) | Last semester
+## 🎓 Catholic University of Brasília [UCB](https://www.linkedin.com/school/universidadecatolicadebrasilia/) | Last semester
 
 ## 💻 Development Student Front-end and Back-end: 
 - Rocketseat 
