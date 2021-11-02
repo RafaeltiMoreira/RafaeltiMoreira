@@ -21,7 +21,7 @@
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-<br>
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -40,7 +40,7 @@
 <br>
 
 ## ⚙️ &nbsp;GitHub Stats 🚀
-<br>
+
 
 <p>
 <img align="left" width="490em" src="https://github-readme-stats.vercel.app/api?username=RafaeltiMoreira&show_icons=true&theme=vision-friendly-dark" alt="RafaeltiMoreira's stats"/>
@@ -57,7 +57,7 @@
 <br />
 
 ## ⚙️ &nbsp;GitHub Languages 🚀
-<br>
+
 
 <p>
 <img align="left" width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeltiMoreira&layout=compact&theme=vision-friendly-dark" alt="RafaeltiMoreira's most languages"/>
@@ -75,7 +75,7 @@
 <br />
 
 ## 💬 &nbsp;Social Links
-<br>
+
 
 <p style="background:white">
 <a href="https://www.linkedin.com/in/rafael-moreira-ti/" target="_blank">
