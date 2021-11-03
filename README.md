@@ -90,7 +90,7 @@
 </a>
 </p>
 
-
+![Snake animation](https://github.com/RafaeltiMoreira/RafaeltiMoreira/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
