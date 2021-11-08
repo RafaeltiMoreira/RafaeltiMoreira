@@ -1,12 +1,13 @@
 
 <h1 align="center">I'm Rafael Moreira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> We welcome you! </h1>
+<!--
 <a>
     <img align="right" src="https://media4.giphy.com/media/gXbkrOe5fVoyYKjGCr/giphy.gif?cid=790b761156e4ec760ffc734e5ee48b099535594fc49ecfb5&rid=giphy.gif&ct=g" alt="Coder GIF" width="480" height="490em">
-</a>
+</a> 
+-->
+<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 
-## 🎓 Information Technology Management Student <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-
-## 🎓 Catholic University of Brasília [UCB](https://www.linkedin.com/school/universidadecatolicadebrasilia/) | Last semester
+## 🎓 Information Technology Management Student - Catholic University of Brasília [UCB](https://www.linkedin.com/school/universidadecatolicadebrasilia/) 
 
 ## 💻 Development Student Front-end and Back-end: 
 - Rocketseat 
