@@ -7,7 +7,7 @@
 -->
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 
-## 🎓 Estudante de Gestão da Tecnologia da Informação - Catholic University of Brasília [UCB](https://www.linkedin.com/school/universidadecatolicadebrasilia/) 
+## 🎓 Gestão da Tecnologia da Informação - Catholic University of Brasília [UCB](https://www.linkedin.com/school/universidadecatolicadebrasilia/) 
 
 ## 💻 Development Student Front-end and Back-end: 
 - Rocketseat 
