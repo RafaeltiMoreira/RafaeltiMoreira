@@ -9,15 +9,15 @@
 
 ## 🎓 Gestão da Tecnologia da Informação - Catholic University of Brasília [UCB](https://www.linkedin.com/school/universidadecatolicadebrasilia/) 
 
-## 💻 Development Student Front-end and Back-end: 
-- Rocketseat 
+## 💻 Development Student Front-end and Back-end:
+- Dev. Superior
+- Rocketseat
+- Ocean Samsung 
 - AluraOnline  
 - Digital Innovation One 
 - Curso em Vídeo  
 - +praTI 
 - CappacitaDev 
-- Ocean Samsung 
-- Dev. Superior
 
 <br>
 
