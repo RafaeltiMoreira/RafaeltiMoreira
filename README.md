@@ -18,6 +18,7 @@
 - Curso em Vídeo  
 - +praTI 
 - CappacitaDev 
+- Imã Learning Place
 
 <br>
 
