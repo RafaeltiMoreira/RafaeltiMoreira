@@ -42,12 +42,12 @@
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 
 <br>
-
+<!--
 ## ⚙️ &nbsp;GitHub Stats 🚀
 
 
 <p align="left" >
-<img width="490em" src="https://github-readme-stats.vercel.app/api?username=RafaeltiMoreira&show_icons=true&theme=vision-friendly-dark" alt="RafaeltiMoreira's stats"/>
+<img width="490em" src="https://github-readme-stats.vercel.app/api?username=RafaeltiMoreira&show_icons=true&theme=transparent" alt="RafaeltiMoreira's stats"/>
 </p>  
 
 <br />
@@ -57,11 +57,22 @@
 
 
 <p align="left" >
-<img width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeltiMoreira&layout=compact&theme=vision-friendly-dark" alt="RafaeltiMoreira's most languages"/>
+<img width="490em" ![Anurag's GitHub stats] src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeltiMoreira&layout=compact&theme=vision-friendly-dark" alt="RafaeltiMoreira's most languages"/>
 </p>
 
-<br />
-<br />
+![RafaeltiMoreira GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaeltiMoreira&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmoreira&show_icons=true&theme=transparent)
+
+<a href="https://github.com/RafaeltiMoreira/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaeltiMoreira&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/RafaeltiMoreira/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaeltiMoreira&repo=convoychat" />
+//</a>
+
+<br /> 
+<br /> -->
 
 ## 💬 &nbsp;Social Links
 
@@ -70,7 +81,7 @@
 <a href="https://www.linkedin.com/in/rafael-moreira-ti/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Rafael Moreira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/rafaelmoreiraa/" target="_blank">
+<a href="https://www.instagram.com/rafaeltimoreira/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Rafael Moreira-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://mail.google.com/" target="_blank">
