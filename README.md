@@ -89,27 +89,16 @@
 </a>
 </p>
 
-![Snake animation](https://github.com/RafaeltiMoreira/RafaeltiMoreira/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/rafaeltimoreira/rafaeltimoreira/blob/output/github-contribution-grid-snake.svg)-->
+<br /> 
+<br />
 
-<!--
+## 🧑🏽‍💻 Github Analytics
 
-## Sejam muito bem-vindos (as)! 👋 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeltimoreira&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeltimoreira&layout=compact&theme=dark&langs_count=8&card_width=320" />
+</a>
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RafaeltiMoreira/f0702d71855e0e2a352c4460cf14fa03/raw/20b909df1d73b5834fbff95eebda2a30d12f761a/readmecard.svg"/>
-<h1 align="left">Sejam muito bem-vindos (as)! <img src="" width="30px">, I'm Rafael Moreira</h1>
-
-
-# Rafael Moreira
-
-Apaixonado por tecnologia.
-<br/>🎓Estudante de Gestão da Tecnologia da Informação na Universidade Católica de Brasília.
-
- Atualmente estou trabalhando na **Secretaria de Estado de Segurança Pública do DF.**
- <br/> 🚀 Buscando crescimento com cursos de Programação Orientada a Objetos, Lógica de Programação, Front-end e Back-end. 
- <br/> 📧 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RafaelMoreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-moreira-ti/)](https://www.linkedin.com/in/rafael-moreira-ti/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-rafaeltimoreirass@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeltimoreirass@gmail.com)](mailto:rafaeltimoreirass@gmail.com)
-
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RafaeltiMoreira/f0702d71855e0e2a352c4460cf14fa03/raw/5edd166e9fc90c3cf40752c23fc72d005c020687/readmecard.svg"/>
-
--->
