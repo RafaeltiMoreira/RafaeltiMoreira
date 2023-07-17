@@ -91,7 +91,6 @@
 
 <!--![Snake animation](https://github.com/rafaeltimoreira/rafaeltimoreira/blob/output/github-contribution-grid-snake.svg)-->
 <br /> 
-<br />
 
 ## 🧑🏽‍💻 Github Analytics
 
