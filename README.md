@@ -10,7 +10,7 @@
 ## 🎓 Gestão da Tecnologia da Informação - Catholic University of Brasília [UCB](https://www.linkedin.com/school/universidadecatolicadebrasilia/) 
 
 ## 💻 Development Student Front-end and Back-end:
-- Dev. Superior
+<!--- Dev. Superior
 - Rocketseat
 - Ocean Samsung 
 - AluraOnline  
@@ -18,18 +18,16 @@
 - Curso em Vídeo  
 - +praTI 
 - CappacitaDev 
-- Imã Learning Place
-
-<br>
+- Imã Learning Place-->
 
 ## 🛠 &nbsp;Tech Developed
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -41,46 +39,25 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 
-<br />
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeltimoreira&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 
-<br />
-<!--
-## ⚙️ &nbsp;GitHub Stats 🚀
+<br>
+<br>
 
 
-<p align="left" >
-<img width="490em" src="https://github-readme-stats.vercel.app/api?username=RafaeltiMoreira&show_icons=true&theme=transparent" alt="RafaeltiMoreira's stats"/>
-</p>  
+## 🧑🏽‍💻 Github Analytics
 
-<br />
-<br />
-
-## ⚙️ &nbsp;GitHub Languages 🚀
-
-
-<p align="left" >
-<img width="490em" ![Anurag's GitHub stats] src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeltiMoreira&layout=compact&theme=vision-friendly-dark" alt="RafaeltiMoreira's most languages"/>
-</p>
-
-![RafaeltiMoreira GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaeltiMoreira&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmoreira&show_icons=true&theme=transparent)
-
-<a href="https://github.com/RafaeltiMoreira/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaeltiMoreira&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeltimoreira&theme=dark" />
 </a>
-<a href="https://github.com/RafaeltiMoreira/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaeltiMoreira&repo=convoychat" />
-//</a>
 
-<br /> 
-<br /> -->
+<br>
+<br>
 
 ## 💬 &nbsp;Social Links
-
 
 <p style="background:white">
 <a href="https://www.linkedin.com/in/rafael-moreira-ti/" target="_blank">
@@ -93,13 +70,4 @@
  <img align="center" src="https://img.shields.io/badge/-rafaeltimoreirass@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaeltimoreirass@gmail.com" alt="gmail"/>
 </a>
 </p>
-
-<!--![Snake animation](https://github.com/rafaeltimoreira/rafaeltimoreira/blob/output/github-contribution-grid-snake.svg)-->
-<br /> 
-
-## 🧑🏽‍💻 Github Analytics
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeltimoreira&theme=dark" />
-</a>
 
